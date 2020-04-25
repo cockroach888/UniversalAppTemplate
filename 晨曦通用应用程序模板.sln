@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DawnGAT.Framwork20", "DawnGAT.Framwork20\DawnGAT.Framwork20.csproj", "{4CB44577-5B6D-4BDE-A7FB-1ED89E5F40C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DawnGAT.Framwork35", "DawnGAT.Framwork35\DawnGAT.Framwork35.csproj", "{29E84765-4417-4BF3-8A21-6FAF5ED8ED4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DawnGAT.Framwork40", "DawnGAT.Framwork40\DawnGAT.Framwork40.csproj", "{2DD4802D-AB58-4796-9AB6-63ED86C11456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DawnGAT.Framwork45", "DawnGAT.Framwork45\DawnGAT.Framwork45.csproj", "{29D13473-018B-4C8E-9403-1646EAFF0013}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://dawnxz:8080/tfs/dawncollection
+		SccProjectUniqueName0 = DawnGAT.Framwork20\\DawnGAT.Framwork20.csproj
+		SccProjectName0 = DawnGAT.Framwork20
+		SccLocalPath0 = DawnGAT.Framwork20
+		SccProjectUniqueName1 = DawnGAT.Framwork35\\DawnGAT.Framwork35.csproj
+		SccProjectName1 = DawnGAT.Framwork35
+		SccLocalPath1 = DawnGAT.Framwork35
+		SccProjectUniqueName2 = DawnGAT.Framwork45\\DawnGAT.Framwork45.csproj
+		SccProjectName2 = DawnGAT.Framwork45
+		SccLocalPath2 = DawnGAT.Framwork45
+		SccLocalPath3 = .
+		SccProjectUniqueName4 = DawnGAT.Framwork40\\DawnGAT.Framwork40.csproj
+		SccProjectName4 = DawnGAT.Framwork40
+		SccLocalPath4 = DawnGAT.Framwork40
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB44577-5B6D-4BDE-A7FB-1ED89E5F40C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB44577-5B6D-4BDE-A7FB-1ED89E5F40C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB44577-5B6D-4BDE-A7FB-1ED89E5F40C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB44577-5B6D-4BDE-A7FB-1ED89E5F40C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E84765-4417-4BF3-8A21-6FAF5ED8ED4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E84765-4417-4BF3-8A21-6FAF5ED8ED4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E84765-4417-4BF3-8A21-6FAF5ED8ED4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E84765-4417-4BF3-8A21-6FAF5ED8ED4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD4802D-AB58-4796-9AB6-63ED86C11456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD4802D-AB58-4796-9AB6-63ED86C11456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD4802D-AB58-4796-9AB6-63ED86C11456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD4802D-AB58-4796-9AB6-63ED86C11456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D13473-018B-4C8E-9403-1646EAFF0013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D13473-018B-4C8E-9403-1646EAFF0013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D13473-018B-4C8E-9403-1646EAFF0013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D13473-018B-4C8E-9403-1646EAFF0013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
